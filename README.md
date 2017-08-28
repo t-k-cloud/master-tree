@@ -21,14 +21,15 @@ But data here are open pushed to Github and thus very likely to be public.
 pub
 ===
 The whole point of cloud is to sharing date to me whenever I can access
-Internet. However sharing data does also mean I can let other people send
+Internet. However, sharing data does also mean I can let other people send
 me files, or send people my file for their convenience. This folder will
-be opened to public/guest and be hosted by file service such as Droppy.
+be opened to public/guest and be hosted by file service such as Droppy openly
+or open to guest who has the account/password I have told him.
 
 var
 ===
-Files under this folder should **not** be written by `rsync`. Only WEB inter-
-face should be used to modify data here. The so-called variable files are those
+Files under this folder should **not** be written by `rsync`. Only WEB interface
+should be used to modify data here. The so-called variable files are those
 often written by clients from possibly different devices. Also, some private
 data are not supposed to reside with Github repo in proj folder. And it is also
 easier to find and backup these data when they are all in the same place. The
