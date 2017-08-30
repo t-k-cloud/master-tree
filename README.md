@@ -26,6 +26,14 @@ me files, or send people my file for their convenience. This folder will
 be opened to public/guest and be hosted by file service such as Droppy openly
 or open to guest who has the account/password I have told him.
 
+sync
+====
+This file is mirror of usually the Desktop folder of client, to keep a backup
+of temporary files in one place. This temporary files are typically not ready
+to be classified into `incr` folder or you do not have time to organize them
+into `incr` folder yet. Do not write to `sync` from WEB interface, doing so will
+lose these writes once you client synchronizes to master next time.
+
 var
 ===
 Files under this folder should **not** be written by `rsync`. Only WEB interface
