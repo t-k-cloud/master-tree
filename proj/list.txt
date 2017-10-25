@@ -1,5 +1,6 @@
 https://github.com/t-k-/tkfeedr 	 ./tkfeedr
 https://github.com/t-k-/github-feed-browser-loader.git 	 ./github-feed-browser-loader
+https://github.com/t-k-/vhdl_flappybird 	 ./experiments/vhdl_flappybird
 https://github.com/t-k-/arp-spoof-and-http-inject.git 	 ./experiments/arp-spoof-and-http-inject
 https://github.com/t-k-/my-strace.git 	 ./experiments/my-strace
 https://github.com/t-k-/voice-instead.git 	 ./chrome-extension/voice-instead
