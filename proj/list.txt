@@ -6,7 +6,6 @@ https://github.com/t-k-/my-strace.git 	 ./experiments/my-strace
 https://github.com/t-k-/voice-instead.git 	 ./chrome-extension/voice-instead
 https://github.com/t-k-/form-hero.git 	 ./chrome-extension/form-hero
 https://github.com/t-k-/letsencrypt-auto.git 	 ./approach0/letsencrypt-auto
-https://github.com/approach0/fork-Indri.git 	 ./approach0/fork-Indri
 https://github.com/approach0/fork-cppjieba.git 	 ./approach0/fork-cppjieba
 https://github.com/approach0/search-engine-docs-eng.git 	 ./approach0/docs-eng
 https://github.com/approach0/search-engine-user-guide.git 	 ./approach0/user-guide
