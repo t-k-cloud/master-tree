@@ -3,6 +3,7 @@ https://github.com/t-k-/github-feed-browser-loader.git 	 ./github-feed-browser-l
 https://github.com/t-k-/vhdl_flappybird 	 ./experiments/vhdl_flappybird
 https://github.com/t-k-/arp-spoof-and-http-inject.git 	 ./experiments/arp-spoof-and-http-inject
 https://github.com/t-k-/my-strace.git 	 ./experiments/my-strace
+https://github.com/t-k-/voice-instead-pro.git 	 ./chrome-extension/voice-instead-pro
 https://github.com/t-k-/voice-instead.git 	 ./chrome-extension/voice-instead
 https://github.com/t-k-/form-hero.git 	 ./chrome-extension/form-hero
 https://github.com/t-k-/letsencrypt-auto.git 	 ./approach0/letsencrypt-auto
