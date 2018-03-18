@@ -19,5 +19,6 @@ https://github.com/t-k-cloud/wsproxy.git 	 ./tkcloud/wsproxy
 https://github.com/t-k-cloud/client.git 	 ./tkcloud/client
 https://github.com/t-k-cloud/master-tree.git 	 ./tkcloud/master-tree
 https://github.com/t-k-cloud/jobd 	 ./tkcloud/jobd
+https://github.com/t-k-cloud/t-k-cloud.github.io 	 ./tkcloud/t-k-cloud.github.io
 https://github.com/t-k-cloud/droppy.git 	 ./tkcloud/forked-droppy
 https://github.com/t-k-/tkblog.git 	 ./tkblog
