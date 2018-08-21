@@ -1,3 +1,4 @@
+https://github.com/t-k-cloud/static 	 ./tkcloud/static
 https://github.com/t-k-cloud/droppy.git 	 ./tkcloud/forked-droppy
 https://github.com/t-k-cloud/t-k-cloud.github.io 	 ./tkcloud/t-k-cloud.github.io
 https://github.com/t-k-cloud/jobd 	 ./tkcloud/jobd
