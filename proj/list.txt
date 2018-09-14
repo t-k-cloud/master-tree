@@ -18,6 +18,7 @@ https://github.com/t-k-/tkfeedr 	 ./tkfeedr
 https://github.com/t-k-/my-strace.git 	 ./experiments/my-strace
 https://github.com/t-k-/arp-spoof-and-http-inject.git 	 ./experiments/arp-spoof-and-http-inject
 https://github.com/t-k-/lda-helloworld 	 ./experiments/lda-helloworld
+https://github.com/t-k-/simplex-method 	 ./experiments/simplex-method
 https://github.com/t-k-/vhdl_flappybird 	 ./experiments/vhdl_flappybird
 https://github.com/approach0/fork-cppjieba.git 	 ./approach0/fork-cppjieba
 https://github.com/approach0/devops.git 	 ./approach0/devops
