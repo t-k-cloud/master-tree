@@ -14,7 +14,6 @@ https://github.com/t-k-/form-hero.git 	 ./chrome-extension/form-hero
 https://github.com/t-k-/voice-instead-pro.git 	 ./chrome-extension/voice-instead-pro
 https://github.com/t-k-/tkblog.git 	 ./tkblog
 https://github.com/t-k-/hippo 	 ./hippo
-https://github.com/t-k-/tkfeedr 	 ./tkfeedr
 https://github.com/t-k-/my-strace.git 	 ./experiments/my-strace
 https://github.com/t-k-/arp-spoof-and-http-inject.git 	 ./experiments/arp-spoof-and-http-inject
 https://github.com/t-k-/lda-helloworld 	 ./experiments/lda-helloworld
