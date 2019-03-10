@@ -12,6 +12,7 @@ https://github.com/t-k-/letsencrypt-auto.git 	 ./approach0/letsencrypt-auto
 https://github.com/approach0/search-engine.git 	 ./approach0/search-engine
 https://github.com/approach0/search-engine-docs-eng.git 	 ./approach0/docs-eng
 https://github.com/t-k-/tkblog.git 	 ./tkblog
+https://github.com/t-k-cloud/doudou 	 ./doudou
 https://github.com/t-k-/voice-instead-pro.git 	 ./chrome-extension/voice-instead-pro
 https://github.com/t-k-/form-hero.git 	 ./chrome-extension/form-hero
 https://github.com/t-k-/voice-instead.git 	 ./chrome-extension/voice-instead
@@ -26,5 +27,5 @@ https://github.com/t-k-cloud/t-k-cloud.github.io 	 ./tkcloud/t-k-cloud.github.io
 https://github.com/t-k-cloud/droppy.git 	 ./tkcloud/forked-droppy
 https://github.com/t-k-cloud/tkarch.git 	 ./tkcloud/tkarch
 https://github.com/t-k-cloud/auth 	 ./tkcloud/auth
-https://github.com/t-k-cloud/my_feeds 	 ./tkcloud/feeds
+https://github.com/t-k-cloud/my_feeds.git 	 ./tkcloud/feeds
 https://github.com/t-k-cloud/wsproxy.git 	 ./tkcloud/wsproxy
