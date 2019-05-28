@@ -1,5 +1,7 @@
 https://github.com/t-k-/hippo 	 ./hippo
 https://github.com/t-k-/github-feed-browser-loader.git 	 ./github-feed-browser-loader
+https://github.com/t-k-/jike2jiajia.git 	 ./love/jike2jiajia
+https://github.com/t-k-/anni.git 	 ./love/anni
 https://github.com/t-k-/my-strace.git 	 ./experiments/my-strace
 https://github.com/t-k-/simplex-method 	 ./experiments/simplex-method
 https://github.com/t-k-/arp-spoof-and-http-inject.git 	 ./experiments/arp-spoof-and-http-inject
